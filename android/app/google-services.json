@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843624484538",
+    "project_id": "subtitleproject-bda14",
+    "storage_bucket": "subtitleproject-bda14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843624484538:android:522f246ca49c506ae83c83",
+        "android_client_info": {
+          "package_name": "com.example.subtitle_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843624484538-vmt2igdnbkju05ks7rjh65ojb917pgn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subtitle_game",
+            "certificate_hash": "c66bda3d0def498a4e791ec32946d061a5f49138"
+          }
+        },
+        {
+          "client_id": "843624484538-sjnbr0mmivtvar1tt4o99m1np0hj9jf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA13I1I1OXStChW3st9g3uDHPyJMASwujI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843624484538-iidalmt8i0mk02bufkkokvpitoe9n9an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843624484538-02iagp79k505aflkipgtrdumh2j7ppv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.subtitleGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
